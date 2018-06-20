@@ -1,0 +1,1 @@
+# project-handwashing-analysis
